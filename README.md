@@ -1,2 +1,4 @@
 # python
-summary of python and practices
+Concept of python
+
+dunder methods
