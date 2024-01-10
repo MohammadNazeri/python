@@ -1,6 +1,7 @@
 # python
 Concept of python
 String
+slice notation
 Set
 Itertools
 Collections
