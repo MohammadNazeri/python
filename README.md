@@ -11,3 +11,4 @@ dunder methods
 Functions
   yields
   filter
+  reduce
