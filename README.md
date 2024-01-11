@@ -8,3 +8,6 @@ Collections
 Error and Exception
 date & time
 dunder methods
+Functions
+  yields
+  filter
