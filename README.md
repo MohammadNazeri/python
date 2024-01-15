@@ -20,3 +20,6 @@ from operator import itemgetter
 x.sort(key=itemgetter(1))
 
 sorted(array, key=lambda x:x[1])
+
+with np.printoptions(legacy='1.13'):
+    print(arr)
