@@ -15,3 +15,8 @@ Functions
 Decorate
 Closure
 
+#sorting
+from operator import itemgetter
+x.sort(key=itemgetter(1))
+
+sorted(array, key=lambda x:x[1])
