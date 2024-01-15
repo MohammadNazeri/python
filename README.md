@@ -12,3 +12,6 @@ Functions
   yields
   filter
   reduce
+Decorate
+Closure
+
