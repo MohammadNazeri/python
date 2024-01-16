@@ -23,3 +23,5 @@ sorted(array, key=lambda x:x[1])
 
 with np.printoptions(legacy='1.13'):
     print(arr)
+
+Mutable Default Arguments
